@@ -1,0 +1,8 @@
+{
+  "name": "Remix Erick\u0027s planner",
+  "description": "Personal Planner ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

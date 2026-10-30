@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de arquitectura e implementación para el Agente Estático de Estudio y Resumen Semanal en Erick's Planner con modal amplio, integración y proxy backend para Ollama API (sin usar Gemini).",
+  "updatedAt":  "2026-10-30T21:33:40.858561912Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
